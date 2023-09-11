@@ -11,8 +11,8 @@ CLIENT SIDE: The goal of the project is to create a socket. A socket is a endpoi
 
 #include <unistd.h> //Allows us to close the socket file descriptor when the client (me) is finhsed communicating with server 
 
-//IP Address of the Server we are connecting to (Blanca Server)
-#define SERVER_IP "128.198.162.60" 
+//IP Address of the Server we are connecting to (this information has been changed due to how this repo is public)
+#define SERVER_IP "1.11.1.1" 
 
 //Port number of the server we are connecting to 
 #define SERVER_PORT 8080
